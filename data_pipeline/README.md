@@ -137,3 +137,4 @@ Both results are sorted consistently and compared with `DataFrame.equals()`. The
 - Availability is converted to a boolean based on the presence of `In stock`.
 - GBP→INR uses only the required fixed rate of 105.50.
 - SQLite is used because it is built into Python, requires no server, and is sufficient to demonstrate relational modeling, foreign keys, SQL querying, and pandas interoperability.
+Module 1 was verified with 69 scraped books across 3 categories.
