@@ -21,7 +21,7 @@ The current site contains 11 Travel books, 32 Mystery books, and 26 Historical F
 The assignment requires the project-defined constant:
 
 **1 GBP = 105.50 INR**
-
+The converted INR values use this fixed project-defined baseline rate.
 This is deliberately hard-coded in `data_pipeline.py`. No live currency API or date-based lookup is used.
 
 ## Setup
