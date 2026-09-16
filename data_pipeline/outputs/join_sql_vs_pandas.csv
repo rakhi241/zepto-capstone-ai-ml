@@ -1,0 +1,70 @@
+SQL_category_name,SQL_title,SQL_rating,SQL_price_gbp,SQL_price_inr,SQL_in_stock,PANDAS_category_name,PANDAS_title,PANDAS_rating,PANDAS_price_gbp,PANDAS_price_inr,PANDAS_in_stock
+Historical Fiction,A Flight of Arrows (The Pathfinders #2),5,55.53,5858.42,True,Historical Fiction,A Flight of Arrows (The Pathfinders #2),5,55.53,5858.42,True
+Historical Fiction,A Paris Apartment,4,39.01,4115.55,True,Historical Fiction,A Paris Apartment,4,39.01,4115.55,True
+Historical Fiction,A Spy's Devotion (The Regency Spies of London #1),5,16.97,1790.33,True,Historical Fiction,A Spy's Devotion (The Regency Spies of London #1),5,16.97,1790.33,True
+Historical Fiction,Between Shades of Gray,5,20.79,2193.34,True,Historical Fiction,Between Shades of Gray,5,20.79,2193.34,True
+Historical Fiction,Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,3,29.69,3132.3,True,Historical Fiction,Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,3,29.69,3132.3,True
+Historical Fiction,Girl With a Pearl Earring,1,26.77,2824.24,True,Historical Fiction,Girl With a Pearl Earring,1,26.77,2824.24,True
+Historical Fiction,Girl in the Blue Coat,2,46.83,4940.56,True,Historical Fiction,Girl in the Blue Coat,2,46.83,4940.56,True
+Historical Fiction,Glory over Everything: Beyond The Kitchen House,3,45.84,4836.12,True,Historical Fiction,Glory over Everything: Beyond The Kitchen House,3,45.84,4836.12,True
+Historical Fiction,Lilac Girls,2,17.28,1823.04,True,Historical Fiction,Lilac Girls,2,17.28,1823.04,True
+Historical Fiction,Lost Among the Living,4,27.7,2922.35,True,Historical Fiction,Lost Among the Living,4,27.7,2922.35,True
+Historical Fiction,"Love, Lies and Spies",2,20.55,2168.02,True,Historical Fiction,"Love, Lies and Spies",2,20.55,2168.02,True
+Historical Fiction,Mrs. Houdini,5,30.25,3191.38,True,Historical Fiction,Mrs. Houdini,5,30.25,3191.38,True
+Historical Fiction,Starlark,3,25.83,2725.06,True,Historical Fiction,Starlark,3,25.83,2725.06,True
+Historical Fiction,The Constant Princess (The Tudor Court #1),3,16.62,1753.41,True,Historical Fiction,The Constant Princess (The Tudor Court #1),3,16.62,1753.41,True
+Historical Fiction,The Guernsey Literary and Potato Peel Pie Society,1,49.53,5225.42,True,Historical Fiction,The Guernsey Literary and Potato Peel Pie Society,1,49.53,5225.42,True
+Historical Fiction,The House by the Lake,1,36.95,3898.23,True,Historical Fiction,The House by the Lake,1,36.95,3898.23,True
+Historical Fiction,The Invention of Wings,1,37.34,3939.37,True,Historical Fiction,The Invention of Wings,1,37.34,3939.37,True
+Historical Fiction,The Last Painting of Sara de Vos,2,55.55,5860.52,True,Historical Fiction,The Last Painting of Sara de Vos,2,55.55,5860.52,True
+Historical Fiction,The Marriage of Opposites,4,28.08,2962.44,True,Historical Fiction,The Marriage of Opposites,4,28.08,2962.44,True
+Historical Fiction,The Passion of Dolssa,5,28.32,2987.76,True,Historical Fiction,The Passion of Dolssa,5,28.32,2987.76,True
+Historical Fiction,The Red Tent,5,35.66,3762.13,True,Historical Fiction,The Red Tent,5,35.66,3762.13,True
+Historical Fiction,The Secret Healer,3,34.56,3646.08,True,Historical Fiction,The Secret Healer,3,34.56,3646.08,True
+Historical Fiction,Tipping the Velvet,1,53.74,5669.57,True,Historical Fiction,Tipping the Velvet,1,53.74,5669.57,True
+Historical Fiction,Voyager (Outlander #3),5,21.07,2222.89,True,Historical Fiction,Voyager (Outlander #3),5,21.07,2222.89,True
+Historical Fiction,While You Were Mine,5,41.32,4359.26,True,Historical Fiction,While You Were Mine,5,41.32,4359.26,True
+Historical Fiction,World Without End (The Pillars of the Earth #2),4,32.97,3478.34,True,Historical Fiction,World Without End (The Pillars of the Earth #2),4,32.97,3478.34,True
+Mystery,1st to Die (Women's Murder Club #1),1,53.98,5694.89,True,Mystery,1st to Die (Women's Murder Club #1),1,53.98,5694.89,True
+Mystery,A Murder in Time,1,16.64,1755.52,True,Mystery,A Murder in Time,1,16.64,1755.52,True
+Mystery,A Study in Scarlet (Sherlock Holmes #1),2,16.73,1765.02,True,Mystery,A Study in Scarlet (Sherlock Holmes #1),2,16.73,1765.02,True
+Mystery,A Time of Torment (Charlie Parker #14),5,48.35,5100.92,True,Mystery,A Time of Torment (Charlie Parker #14),5,48.35,5100.92,True
+Mystery,Blood Defense (Samantha Brinkman #1),3,20.3,2141.65,True,Mystery,Blood Defense (Samantha Brinkman #1),3,20.3,2141.65,True
+Mystery,Boar Island (Anna Pigeon #19),3,59.48,6275.14,True,Mystery,Boar Island (Anna Pigeon #19),3,59.48,6275.14,True
+Mystery,Career of Evil (Cormoran Strike #3),2,24.72,2607.96,True,Mystery,Career of Evil (Cormoran Strike #3),2,24.72,2607.96,True
+Mystery,Delivering the Truth (Quaker Midwife Mystery #1),4,20.89,2203.9,True,Mystery,Delivering the Truth (Quaker Midwife Mystery #1),4,20.89,2203.9,True
+Mystery,Extreme Prey (Lucas Davenport #26),3,25.4,2679.7,True,Mystery,Extreme Prey (Lucas Davenport #26),3,25.4,2679.7,True
+Mystery,Hide Away (Eve Duncan #20),1,11.84,1249.12,True,Mystery,Hide Away (Eve Duncan #20),1,11.84,1249.12,True
+Mystery,"In a Dark, Dark Wood",1,19.63,2070.96,True,Mystery,"In a Dark, Dark Wood",1,19.63,2070.96,True
+Mystery,In the Woods (Dublin Murder Squad #1),2,38.38,4049.09,True,Mystery,In the Woods (Dublin Murder Squad #1),2,38.38,4049.09,True
+Mystery,Most Wanted,3,35.28,3722.04,True,Mystery,Most Wanted,3,35.28,3722.04,True
+Mystery,Murder at the 42nd Street Library (Raymond Ambler #1),4,54.36,5734.98,True,Mystery,Murder at the 42nd Street Library (Raymond Ambler #1),4,54.36,5734.98,True
+Mystery,Playing with Fire,3,13.71,1446.41,True,Mystery,Playing with Fire,3,13.71,1446.41,True
+Mystery,Poisonous (Max Revere Novels #3),3,26.8,2827.4,True,Mystery,Poisonous (Max Revere Novels #3),3,26.8,2827.4,True
+Mystery,Sharp Objects,4,47.82,5045.01,True,Mystery,Sharp Objects,4,47.82,5045.01,True
+Mystery,Tastes Like Fear (DI Marnie Rome #3),1,10.69,1127.79,True,Mystery,Tastes Like Fear (DI Marnie Rome #3),1,10.69,1127.79,True
+Mystery,That Darkness (Gardiner and Renner #1),1,13.92,1468.56,True,Mystery,That Darkness (Gardiner and Renner #1),1,13.92,1468.56,True
+Mystery,The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),5,52.3,5517.65,True,Mystery,The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),5,52.3,5517.65,True
+Mystery,The Cuckoo's Calling (Cormoran Strike #1),1,19.21,2026.66,True,Mystery,The Cuckoo's Calling (Cormoran Strike #1),1,19.21,2026.66,True
+Mystery,The Exiled,3,43.45,4583.98,True,Mystery,The Exiled,3,43.45,4583.98,True
+Mystery,The Girl In The Ice (DCI Erika Foster #1),3,15.85,1672.18,True,Mystery,The Girl In The Ice (DCI Erika Foster #1),3,15.85,1672.18,True
+Mystery,The Girl You Lost,5,12.29,1296.59,True,Mystery,The Girl You Lost,5,12.29,1296.59,True
+Mystery,The Last Mile (Amos Decker #2),2,54.21,5719.16,True,Mystery,The Last Mile (Amos Decker #2),2,54.21,5719.16,True
+Mystery,The Murder of Roger Ackroyd (Hercule Poirot #4),4,44.1,4652.55,True,Mystery,The Murder of Roger Ackroyd (Hercule Poirot #4),4,44.1,4652.55,True
+Mystery,The Mysterious Affair at Styles (Hercule Poirot #1),4,24.8,2616.4,True,Mystery,The Mysterious Affair at Styles (Hercule Poirot #1),4,24.8,2616.4,True
+Mystery,The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),4,57.7,6087.35,True,Mystery,The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),4,57.7,6087.35,True
+Mystery,The Past Never Ends,4,56.5,5960.75,True,Mystery,The Past Never Ends,4,56.5,5960.75,True
+Mystery,The Silkworm (Cormoran Strike #2),5,23.05,2431.78,True,Mystery,The Silkworm (Cormoran Strike #2),5,23.05,2431.78,True
+Mystery,The Widow,2,27.26,2875.93,True,Mystery,The Widow,2,27.26,2875.93,True
+Mystery,What Happened on Beale Street (Secrets of the South Mysteries #2),5,25.37,2676.54,True,Mystery,What Happened on Beale Street (Secrets of the South Mysteries #2),5,25.37,2676.54,True
+Travel,"1,000 Places to See Before You Die",5,26.08,2751.44,True,Travel,"1,000 Places to See Before You Die",5,26.08,2751.44,True
+Travel,A Summer In Europe,2,44.34,4677.87,True,Travel,A Summer In Europe,2,44.34,4677.87,True
+Travel,A Year in Provence (Provence #1),4,56.88,6000.84,True,Travel,A Year in Provence (Provence #1),4,56.88,6000.84,True
+Travel,Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond,4,49.43,5214.86,True,Travel,Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond,4,49.43,5214.86,True
+Travel,It's Only the Himalayas,2,45.17,4765.44,True,Travel,It's Only the Himalayas,2,45.17,4765.44,True
+Travel,Neither Here nor There: Travels in Europe,3,38.95,4109.23,True,Travel,Neither Here nor There: Travels in Europe,3,38.95,4109.23,True
+Travel,See America: A Celebration of Our National Parks & Treasured Sites,3,48.87,5155.78,True,Travel,See America: A Celebration of Our National Parks & Treasured Sites,3,48.87,5155.78,True
+Travel,The Great Railway Bazaar,1,30.54,3221.97,True,Travel,The Great Railway Bazaar,1,30.54,3221.97,True
+Travel,The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),1,23.21,2448.66,True,Travel,The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),1,23.21,2448.66,True
+Travel,Under the Tuscan Sun,3,37.33,3938.31,True,Travel,Under the Tuscan Sun,3,37.33,3938.31,True
+Travel,Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,2,36.94,3897.17,True,Travel,Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,2,36.94,3897.17,True

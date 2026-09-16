@@ -1,0 +1,141 @@
+
+=== 01_select_all ===
+ book_id                                                                                             title  price_gbp  price_inr  rating  in_stock
+       1                                                                           It's Only the Himalayas      45.17    4765.44       2         1
+       2                                Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond      49.43    5214.86       4         1
+       3                                See America: A Celebration of Our National Parks & Treasured Sites      48.87    5155.78       3         1
+       4                               Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel      36.94    3897.17       2         1
+       5                                                                              Under the Tuscan Sun      37.33    3938.31       3         1
+       6                                                                                A Summer In Europe      44.34    4677.87       2         1
+       7                                                                          The Great Railway Bazaar      30.54    3221.97       1         1
+       8                                                                  A Year in Provence (Provence #1)      56.88    6000.84       4         1
+       9 The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)      23.21    2448.66       1         1
+      10                                                         Neither Here nor There: Travels in Europe      38.95    4109.23       3         1
+
+=== 02_where_in_stock ===
+                                                                   title  rating  price_inr
+                                                       The Girl You Lost       5    1296.59
+                       A Spy's Devotion (The Regency Spies of London #1)       5    1790.33
+                                                  Between Shades of Gray       5    2193.34
+                                                  Voyager (Outlander #3)       5    2222.89
+                                       The Silkworm (Cormoran Strike #2)       5    2431.78
+       What Happened on Beale Street (Secrets of the South Mysteries #2)       5    2676.54
+                                      1,000 Places to See Before You Die       5    2751.44
+                                                   The Passion of Dolssa       5    2987.76
+                                                            Mrs. Houdini       5    3191.38
+                                                            The Red Tent       5    3762.13
+                                                     While You Were Mine       5    4359.26
+                                  A Time of Torment (Charlie Parker #14)       5    5100.92
+The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)       5    5517.65
+                                 A Flight of Arrows (The Pathfinders #2)       5    5858.42
+                        Delivering the Truth (Quaker Midwife Mystery #1)       4    2203.90
+                     The Mysterious Affair at Styles (Hercule Poirot #1)       4    2616.40
+                                                   Lost Among the Living       4    2922.35
+                                               The Marriage of Opposites       4    2962.44
+                         World Without End (The Pillars of the Earth #2)       4    3478.34
+                                                       A Paris Apartment       4    4115.55
+                         The Murder of Roger Ackroyd (Hercule Poirot #4)       4    4652.55
+                                                           Sharp Objects       4    5045.01
+      Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond       4    5214.86
+                   Murder at the 42nd Street Library (Raymond Ambler #1)       4    5734.98
+                                                     The Past Never Ends       4    5960.75
+                                        A Year in Provence (Provence #1)       4    6000.84
+  The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1)       4    6087.35
+
+=== 03_order_by_price ===
+                                                                 title  price_gbp  price_inr
+                                         Boar Island (Anna Pigeon #19)      59.48    6275.14
+The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1)      57.70    6087.35
+                                      A Year in Provence (Provence #1)      56.88    6000.84
+                                                   The Past Never Ends      56.50    5960.75
+                                      The Last Painting of Sara de Vos      55.55    5860.52
+                               A Flight of Arrows (The Pathfinders #2)      55.53    5858.42
+                 Murder at the 42nd Street Library (Raymond Ambler #1)      54.36    5734.98
+                                        The Last Mile (Amos Decker #2)      54.21    5719.16
+                                   1st to Die (Women's Murder Club #1)      53.98    5694.89
+                                                    Tipping the Velvet      53.74    5669.57
+
+=== 04_limit ===
+                                            title  rating
+               1,000 Places to See Before You Die       5
+          A Flight of Arrows (The Pathfinders #2)       5
+A Spy's Devotion (The Regency Spies of London #1)       5
+           A Time of Torment (Charlie Parker #14)       5
+                           Between Shades of Gray       5
+
+=== 05_distinct ===
+ rating
+      1
+      2
+      3
+      4
+      5
+
+=== 06_in_between ===
+                                                                                            title  category_id  price_gbp
+                                                             Blood Defense (Samantha Brinkman #1)            2      20.30
+                                                                             Love, Lies and Spies            1      20.55
+                                                                           Between Shades of Gray            1      20.79
+                                                 Delivering the Truth (Quaker Midwife Mystery #1)            2      20.89
+                                                                           Voyager (Outlander #3)            1      21.07
+                                                                The Silkworm (Cormoran Strike #2)            2      23.05
+The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)            3      23.21
+                                                              Career of Evil (Cormoran Strike #3)            2      24.72
+                                              The Mysterious Affair at Styles (Hercule Poirot #1)            2      24.80
+                                What Happened on Beale Street (Secrets of the South Mysteries #2)            2      25.37
+                                                               Extreme Prey (Lucas Davenport #26)            2      25.40
+                                                                                         Starlark            1      25.83
+                                                               1,000 Places to See Before You Die            3      26.08
+                                                                        Girl With a Pearl Earring            1      26.77
+                                                                 Poisonous (Max Revere Novels #3)            2      26.80
+                                                                                        The Widow            2      27.26
+                                                                            Lost Among the Living            1      27.70
+                                                                        The Marriage of Opposites            1      28.08
+                                                                            The Passion of Dolssa            1      28.32
+                        Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton            1      29.69
+                                                                                     Mrs. Houdini            1      30.25
+                                                                         The Great Railway Bazaar            3      30.54
+                                                  World Without End (The Pillars of the Earth #2)            1      32.97
+                                                                                The Secret Healer            1      34.56
+                                                                                      Most Wanted            2      35.28
+                                                                                     The Red Tent            1      35.66
+                              Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel            3      36.94
+                                                                            The House by the Lake            1      36.95
+                                                                             Under the Tuscan Sun            3      37.33
+                                                                           The Invention of Wings            1      37.34
+                                                            In the Woods (Dublin Murder Squad #1)            2      38.38
+                                                        Neither Here nor There: Travels in Europe            3      38.95
+                                                                                A Paris Apartment            1      39.01
+
+=== 07_join_top_10_per_category ===
+     category_name                                                                                             title  rating  price_gbp  price_inr  in_stock
+Historical Fiction                                                 A Spy's Devotion (The Regency Spies of London #1)       5      16.97    1790.33         1
+Historical Fiction                                                                            Between Shades of Gray       5      20.79    2193.34         1
+Historical Fiction                                                                            Voyager (Outlander #3)       5      21.07    2222.89         1
+Historical Fiction                                                                             The Passion of Dolssa       5      28.32    2987.76         1
+Historical Fiction                                                                                      Mrs. Houdini       5      30.25    3191.38         1
+Historical Fiction                                                                                      The Red Tent       5      35.66    3762.13         1
+Historical Fiction                                                                               While You Were Mine       5      41.32    4359.26         1
+Historical Fiction                                                           A Flight of Arrows (The Pathfinders #2)       5      55.53    5858.42         1
+Historical Fiction                                                                             Lost Among the Living       4      27.70    2922.35         1
+Historical Fiction                                                                         The Marriage of Opposites       4      28.08    2962.44         1
+           Mystery                                                                                 The Girl You Lost       5      12.29    1296.59         1
+           Mystery                                                                 The Silkworm (Cormoran Strike #2)       5      23.05    2431.78         1
+           Mystery                                 What Happened on Beale Street (Secrets of the South Mysteries #2)       5      25.37    2676.54         1
+           Mystery                                                            A Time of Torment (Charlie Parker #14)       5      48.35    5100.92         1
+           Mystery                          The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)       5      52.30    5517.65         1
+           Mystery                                                  Delivering the Truth (Quaker Midwife Mystery #1)       4      20.89    2203.90         1
+           Mystery                                               The Mysterious Affair at Styles (Hercule Poirot #1)       4      24.80    2616.40         1
+           Mystery                                                   The Murder of Roger Ackroyd (Hercule Poirot #4)       4      44.10    4652.55         1
+           Mystery                                                                                     Sharp Objects       4      47.82    5045.01         1
+           Mystery                                             Murder at the 42nd Street Library (Raymond Ambler #1)       4      54.36    5734.98         1
+            Travel                                                                1,000 Places to See Before You Die       5      26.08    2751.44         1
+            Travel                                Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond       4      49.43    5214.86         1
+            Travel                                                                  A Year in Provence (Provence #1)       4      56.88    6000.84         1
+            Travel                                                                              Under the Tuscan Sun       3      37.33    3938.31         1
+            Travel                                                         Neither Here nor There: Travels in Europe       3      38.95    4109.23         1
+            Travel                                See America: A Celebration of Our National Parks & Treasured Sites       3      48.87    5155.78         1
+            Travel                               Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel       2      36.94    3897.17         1
+            Travel                                                                                A Summer In Europe       2      44.34    4677.87         1
+            Travel                                                                           It's Only the Himalayas       2      45.17    4765.44         1
+            Travel The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)       1      23.21    2448.66         1
